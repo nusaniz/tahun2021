@@ -1,5 +1,8 @@
 // 1 detik = 1000 interval
 // 0.5 detik = 500 interval
+// open target chat
+// CTRL + SHIFT + J (open console)
+// paste this code to console
 
 var repeatingSpamFunction = null;
 var message = '';
