@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-//
+// 1 detik = 1000 interval
+// 0.5 detik = 500 interval
 
-=======
->>>>>>> a149dc16809008a86a17e41a4ae2443263f2ff96
 var repeatingSpamFunction = null;
 var message = '';
 
